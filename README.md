@@ -1,6 +1,6 @@
 ### Hey! Eu sou o João Henrique
 
-- 🔭 Hoje trabalho com Back-End
+- 🔭 Hoje trabalho como Desenvolvedor FullStack!
 
 <div>
   <a href="https://github.com/joaohp020">
