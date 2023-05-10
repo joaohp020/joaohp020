@@ -1,6 +1,6 @@
-### Hey! Eu sou o João Henrique
+### João Henrique
 
-- 🔭 Hoje trabalho como Desenvolvedor FullStack!
+- Sou um Desenvolvedor Web FullStack com 5 de anos de experiência em projetos de desenvolvimento de software. Meu foco é no desenvolvimento de aplicações web escaláveis e de alta performance.
 
 <div>
   <a href="https://github.com/joaohp020">
