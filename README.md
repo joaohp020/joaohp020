@@ -2,12 +2,6 @@
 
 - Sou um Desenvolvedor Web FullStack com 5 de anos de experiência em projetos de desenvolvimento de software. Meu foco é no desenvolvimento de aplicações web escaláveis e de alta performance.
 
-<div>
-  <a href="https://github.com/joaohp020">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaohp020&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohp020&langs_count=8&theme=dracula"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
