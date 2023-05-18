@@ -1,6 +1,6 @@
 ### João Henrique
 
-- Sou um Desenvolvedor Web FullStack com 5 de anos de experiência em projetos de desenvolvimento de software. Meu foco é no desenvolvimento de aplicações web escaláveis e de alta performance.
+- Sou Desenvolvedor Web FullStack com 5 de anos de experiência em projetos de desenvolvimento de software. Meu foco é no desenvolvimento de aplicações web escaláveis e de alta performance.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
