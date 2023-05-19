@@ -1,5 +1,7 @@
 ### João Henrique
 
+##
+
 - Sou Desenvolvedor Web FullStack com 5 de anos de experiência em projetos de desenvolvimento de software. Meu foco é no desenvolvimento de aplicações web escaláveis e de alta performance.
 
 <div style="display: inline_block"><br>
@@ -8,6 +10,8 @@
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+### Contato
 
 ##
 
