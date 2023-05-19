@@ -1,5 +1,4 @@
 ### João Henrique
-
 ##
 
 - Sou Desenvolvedor Web FullStack com 5 de anos de experiência em projetos de desenvolvimento de software. Meu foco é no desenvolvimento de aplicações web escaláveis e de alta performance.
@@ -12,9 +11,7 @@
 </div>
 
 ### Contato
-
 ##
-
 <div> 
   <a href="https://www.instagram.com/joaohp_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jh36750@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
