@@ -3,6 +3,8 @@
 
 - Sou Desenvolvedor Web FullStack com 5 de anos de experiência em desenvolvimento de software. Meu foco é no desenvolvimento de aplicações web escaláveis e de alta performance.
 
+###
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
