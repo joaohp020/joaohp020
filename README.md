@@ -1,5 +1,5 @@
 
-- Sou Desenvolvedor FullStack com 5 de anos de experiência em desenvolvimento de software. Meu foco é no desenvolvimento de aplicações web escaláveis e de alta performance.
+- Sou Desenvolvedor FullStack com 5 de anos de experiência em desenvolvimento de software. Meu foco é no desenvolvimento de aplicações escaláveis e de alta performance.
 <br>
 
 <div align="center">  
