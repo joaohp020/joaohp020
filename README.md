@@ -2,7 +2,6 @@
 Sou Desenvolvedor FullStack há 5 anos, com experiência em Desenvolvimento de Software. Trabalho sempre prezando o desenvolvimento de aplicações escaláveis e de alta performance.
 <br>
 
-Contato
 <hr>
 <div align="center"> 
 <a href="https://instagram.com/joaohp_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
