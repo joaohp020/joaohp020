@@ -1,7 +1,7 @@
 
 # Seja bem vindo!
 
-Sou Desenvolvedor FullStack há 5 anos com experiência em Desenvolvimento de Software. Em todos os projetos prezo sempre o desenvolvimento de aplicações escaláveis e de alta performance, buscando sempre me atualizar com as novas tecnologias e boas práticas.
+Sou Desenvolvedor FullStack com 5 anos de experiência. Em meus projetos prezo muito pelo desenvolvimento de aplicações escaláveis e de alta performance, buscando sempre me atualizar com as novas tecnologias e boas práticas.
 <br>
 
 <div align="center"> 
