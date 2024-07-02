@@ -1,5 +1,5 @@
 
 # João Henrique
 
-Desenvolvedor FullStack com 5 anos de experiência. Em meus projetos prezo muito pelo desenvolvimento de aplicações escaláveis e de alta performance, buscando sempre me atualizar com as novas tecnologias e boas práticas.
+Full-Stack Developer with 5 years of experience. In my projects, I prioritize developing scalable and high-performance applications, always striving to stay updated with new technologies and best practices.
 <br>
